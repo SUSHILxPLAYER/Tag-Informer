@@ -2,7 +2,7 @@
 
 <h4 align="center">Simple Bot for Notifying You When You Were Tagged In A Group<br> ... Written With Python and Telethon...</h4>
 
-<p align="center"><a href="https://t.me/Dr_Asad_Ali"><img src="https://telegra.ph/file/7c2bfdec79f87f6dfa5ca.jpg" width="400"></a></p>
+<p align="center"><a href="https://t.me/SUSHIL8XOP"><img src="https://te.legra.ph/file/c1f5290600eb94a1da050.jpg" width="400"></a></p>
 
 [![Profile Views](https://gpvc.arturio.dev/jankarikiduniya)](https://github.com/jankarikiduniya/Tag-Informer)
 
@@ -20,7 +20,7 @@
 
 ### Asad– History
 
-<a href="https://www.youtube.com/JankariKiDuniya"><img src="https://img.shields.io/badge/Join-Subscribe%20Support-blue.svg?style=for-the-badge&logo=YouTube"></a>
+<a href="https://www.youtube.com/LGCY_NAVYA_OP"><img src="https://img.shields.io/badge/Join-Subscribe%20Support-blue.svg?style=for-the-badge&logo=YouTube"></a>
 
 ## Features ❤️”®
  - This Bot Will Inform You When You Were Tagged In A Group
@@ -42,7 +42,7 @@
 <p><a href="https://replit.com/@AssadAli/String-Session-Generator"><img src="https://img.shields.io/badge/Generate%20On%20Repl-blueviolet?style=for-the-badge&logo=appveyor" width="200""/></a></p>
 
 <h4> ɢᴇɴᴇʀᴀᴛᴇ sᴇssɪᴏɴ ᴠɪᴀ ᴛᴇʟᴇɢʀᴀᴍ sᴛʀɪɴɢ-ɢᴇɴ ʙᴏᴛ: </h4>    
-<p><a href="https://t.me/Pyrogram_String_Bot"><img src="https://img.shields.io/badge/TG%20String%20Gen%20Bot-blueviolet?style=for-the-badge&logo=appveyor" width="200""/></a></p>
+<p><a href="https://t.me/LGCY_STRING_ROBOT"><img src="https://img.shields.io/badge/TG%20String%20Gen%20Bot-blueviolet?style=for-the-badge&logo=appveyor" width="200""/></a></p>
     
 ## ᴅᴇᴘʟᴏʏ ᴛᴏ ʜᴇʀᴏᴋᴜ
 
@@ -64,10 +64,10 @@
 
 ## sᴘᴇᴄɪᴀʟ ᴄʀᴇᴅɪᴛ
 
-- [ᴀsᴀᴅ ᴀʟɪ](https://t.me/Dr_Asad_Ali)
-- [ʜᴀʀsʜɪᴛ](https://t.me/HarshitSharma361)
-- [Abhimanyu](https://t.me/Itz_Venom_xD)
-- [ᴅᴇᴠɪᴅ](https://github.com/DivideProjects)
+- [ᴀsᴀᴅ ᴀʟɪ](https://t.me/ITZ_NAVYA)
+- [ʜᴀʀsʜɪᴛ](https://t.me/SHUBHI8XOP)
+- [Abhimanyu](https://t.me/COBRA8xoP)
+- [ᴅᴇᴠɪᴅ](https://github.com/LGCYALEX)
 
 </details>
 
@@ -75,9 +75,9 @@
 <summary><b>ʙʀᴏᴛʜᴇʀ</b></summary>
 <br>
 
-- [ᴍᴜᴋᴜ](https://t.me/LEGEND_MUKUND)
-- [ᴅᴇᴠɪʟ](https://t.me/its_devil_911)
-- [ᴢᴇᴜs](https://t.me/ZEUSJAS74EVER)
+- [ᴍᴜᴋᴜ](https://t.me/lgcyalex)
+- [ᴅᴇᴠɪʟ](https://t.me/cobra8xop)
+- [ᴢᴇᴜs](https://t.me/rockstar_eagle)
 
 </details>
 
@@ -86,9 +86,9 @@
 <br>
 
 # ❤️ Support
-<a href="https://t.me/AsadSupport"><img src="https://img.shields.io/badge/Join-Telegram%20Channel-red.svg?logo=Telegram"></a>
-<a href="https://t.me/Shayri_Music_Lovers"><img src="https://img.shields.io/badge/Join-Telegram%20Group-blue.svg?logo=telegram"></a>
-<a href="https://t.me/Give_Me_Heart"><img src="https://img.shields.io/badge/Give-Me%20Heart-blue.svg?logo=telegram"></a>
-<a href="https://t.me/Alexa_Help"><img src="https://img.shields.io/badge/Give-Me%20Heart-blue.svg?logo=telegram"></a>
+<a href="https://t.me/ALLF_BAN"><img src="https://img.shields.io/badge/Join-Telegram%20Channel-red.svg?logo=Telegram"></a>
+<a href="https://t.me/ALL_FBAN"><img src="https://img.shields.io/badge/Join-Telegram%20Group-blue.svg?logo=telegram"></a>
+<a href="https://t.me/clan8xofficial"><img src="https://img.shields.io/badge/Give-Me%20Heart-blue.svg?logo=telegram"></a>
+<a href="https://t.me/NAVYA_DISCUSE"><img src="https://img.shields.io/badge/Give-Me%20Heart-blue.svg?logo=telegram"></a>
 
 </details>
