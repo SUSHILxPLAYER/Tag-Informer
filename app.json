@@ -1,7 +1,7 @@
 {
     "name": "Tag Informer Bot",
     "description": "Simple Bot For Notifying You When You Were Tagged In A Group.",
-      "logo": "https://telegra.ph/file/7c2bfdec79f87f6dfa5ca.jpg",
+      "logo": "https://te.legra.ph/file/c1f5290600eb94a1da050.jpg",
     "keywords": [
         "telegram",
         "tags",
@@ -12,9 +12,9 @@
         "taglogger bot",
         "taglogger"
     ],
-    "repository": "https://github.com/jankarikiduniya/Tag-Informer",
-    "website": "https://github.com/jankarikiduniya",
-    "success_url": "https://github.com/jankarikiduniya",
+    "repository": "https://github.com/SUSHILxPLAYER/Tag-Informer",
+    "website": "https://github.com/SUSHILxPLYER",
+    "success_url": "https://github.com/SUSHILxPLYER",
     "env": {
         "HEROKU": {
             "description": "Setting this to ANYTHING will enable Heroku, turned on by default!",
