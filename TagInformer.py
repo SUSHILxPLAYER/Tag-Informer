@@ -1,9 +1,9 @@
 #    A Powerful Music Bot Property Of Rocks Indian Largest Chatting Group
 #    Without Credit (Mother Fucker)
-#    Rocks © @Dr_Asad_Ali © Rocks
-#    Copyright (C) 2021 By @Itz_VeNom_xD 
-#    Copyright (C) 2021 By @Dr_Asad_Ali
-#    Copyright (C) 2021 By @HarshitSharma361   
+#    Rocks © @SUSHIL © Rocks
+#    Copyright (C) 2021 By @Itz_NAVYA 
+#    Copyright (C) 2021 By @SHUBHI8XOP
+#    Copyright (C) 2021 By @COBRA8xop   
 #
 #    This program is free software: you can redistribute it or modify
 #    it under the terms of the GNU General Public License as published by
