@@ -13,8 +13,8 @@
         "taglogger"
     ],
     "repository": "https://github.com/SUSHILxPLAYER/Tag-Informer",
-    "website": "https://github.com/SUSHILxPLYER",
-    "success_url": "https://github.com/SUSHILxPLYER",
+    "website": "https://github.com/SUSHILxPLAYER",
+    "success_url": "https://github.com/SUSHILxPLAYER",
     "env": {
         "HEROKU": {
             "description": "Setting this to ANYTHING will enable Heroku, turned on by default!",
