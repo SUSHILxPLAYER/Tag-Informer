@@ -64,10 +64,10 @@
 
 ## sᴘᴇᴄɪᴀʟ ᴄʀᴇᴅɪᴛ
 
-- [ᴀsᴀᴅ ᴀʟɪ](https://t.me/ITZ_NAVYA)
-- [ʜᴀʀsʜɪᴛ](https://t.me/SHUBHI8XOP)
-- [Abhimanyu](https://t.me/COBRA8xoP)
-- [ᴅᴇᴠɪᴅ](https://github.com/LGCYALEX)
+- [ɴᴀᴠʏᴀ](https://t.me/ITZ_NAVYA)
+- [sʜᴜʙʜɪ](https://t.me/SHUBHI8XOP)
+- [ᴄᴏʙʀᴀ](https://t.me/COBRA8xoP)
+- [ᴀʟᴇx](https://github.com/LGCYALEX)
 
 </details>
 
@@ -75,9 +75,9 @@
 <summary><b>ʙʀᴏᴛʜᴇʀ</b></summary>
 <br>
 
-- [ᴍᴜᴋᴜ](https://t.me/lgcyalex)
-- [ᴅᴇᴠɪʟ](https://t.me/cobra8xop)
-- [ᴢᴇᴜs](https://t.me/rockstar_eagle)
+- [ᴀʟᴇx](https://t.me/lgcyalex)
+- [ᴄᴏʙʀᴀ](https://t.me/cobra8xop)
+- [ᴇᴀɢʟᴇ](https://t.me/rockstar_eagle)
 
 </details>
 
